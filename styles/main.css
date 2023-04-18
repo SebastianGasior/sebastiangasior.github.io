@@ -166,6 +166,16 @@ header {
   margin: 0 1%;
   background: url("../images/uwl.png")
   }
+
+  .right-section-uwl h1 p {
+	font-size: 1.25em;                       
+	padding: .7em;
+	background-color: white;
+	border-radius: 20px;
+	display: flex;
+	justify-content:center;
+  }
+  
   /*style for containers in the UWL tab*/
 .container-rj{
 	display: flex;
@@ -182,10 +192,6 @@ header {
 	width: 50%;
   	margin: 0 1%;
   	background: url("../images/uwl.png")
-  }
-  .right-section-rj h1 {
-	animation-name: fadeIn;
-	animation-duration: 4s; /* change this value to adjust the speed of the animation */
   }
 
 
