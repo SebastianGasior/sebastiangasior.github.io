@@ -75,7 +75,6 @@ header {
 #nav_menu ul ul {
 	display: none;
 	position: absolute;
-	top: 100%;
 	margin-left: auto;
 }
 #nav_menu ul ul li {
